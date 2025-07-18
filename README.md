@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanchari-66
 - 👀 I’m interested in ..coding, specially finding better algorithm for a particular code  .
 - 🌱 I’m currently learning ML(Machine Learning) .
--     I'm a 3rd year student at NETAJI SUBHASH INSTITUTE OF TECHNOLOGY.
+-     I'm a 4th year student at NETAJI SUBHASH INSTITUTE OF TECHNOLOGY.
 - 💞️ I’m looking to collaborate on any project that would give me a chance to explore more about tech world.
 - 📫 you can contact me on my email i'd - " basincaloris@gmail.com " ..
 - 
